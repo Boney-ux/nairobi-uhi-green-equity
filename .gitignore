@@ -1,0 +1,11 @@
+# Ignore data
+data/raw/*
+data/processed/*
+
+
+# Ignore notebooks checkpoints
+*.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
